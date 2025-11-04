@@ -19,3 +19,6 @@ This is just a simple python script for downloading your favorite playlists offl
 - Format the name of your playlist and its spotify URL, like shown below. The playlists name will be used for the folder name and the spotdl save file.<br>
     A Playlist, https://open.spotify.com/playlist/abc<br>
 - Run the file.<br>
+
+>[!CAUTION]
+> At the current time this doesnt have error handling for incorrect format in .txt file
