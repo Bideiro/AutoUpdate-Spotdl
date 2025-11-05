@@ -9,10 +9,10 @@ This is just a simple python script for downloading your favorite playlists offl
 [SpotDL Documentation](https://spotdl.readthedocs.io/en/latest/)
 
 ## Features:
--Detects if spotdl is installed, downloads it if not.<br>
--Reads a .txt for lists of playlists and its name<br>
--Creates folders for each playlists, and its own spotdl file.<br>
--Run again to update playlists songs.<br>
+- Detects if spotdl is installed, downloads it if not.<br>
+- Reads a .txt for lists of playlists and its name<br>
+- Creates folders for each playlists, and its own spotdl file.<br>
+- Run again to update playlists songs.<br>
 
 ## Usage:
 - Create a text file within the same folder of the file, name it as 'playlists.txt'<br>
