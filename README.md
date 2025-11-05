@@ -22,3 +22,4 @@ This is just a simple python script for downloading your favorite playlists offl
 
 >[!CAUTION]
 > At the current time this doesnt have error handling for incorrect format in .txt file
+> Also this doesnt check for invalid characters for folders in playlists name.
